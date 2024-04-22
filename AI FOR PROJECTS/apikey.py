@@ -1,4 +1,4 @@
-apikey = "sk-proj-IDptJQnUmrW9Ma5VsOhfT3BlbkFJUhuRL2BlAyBejWSOWnZt"
+apikey = ""
  
 # def main():
 #     pass
